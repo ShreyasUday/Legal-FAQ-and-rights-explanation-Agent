@@ -9,7 +9,7 @@ Built for the Indian judicial context using **RAG (Retrieval-Augmented Generatio
 ---
 
 ## How It Works
-
+    
 ```
 User uploads 2 PDFs (e.g., Prosecution vs. Defense)
         │
