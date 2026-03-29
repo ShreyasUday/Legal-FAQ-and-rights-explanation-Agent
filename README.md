@@ -1,6 +1,6 @@
 # ⚖️ Single-View Case Analyzer
 
-An AI-powered legal research tool that compares two opposing case documents and generates a structured **Judicial Brief** — complete with party summaries, points of contention, relevant precedents, and neutral analytical observations.
+An AI-powered legal research tool that compares two opposing case documents and generates a structured **Judicial Brief** - complete with party summaries, points of contention, relevant precedents, and neutral analytical observations.
 
 Built for the Indian judicial context using **RAG (Retrieval-Augmented Generation)** over a local knowledge base of Orissa High Court judgments.
 
