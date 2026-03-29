@@ -1,0 +1,26 @@
+# Environment
+.env
+venv/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+
+# ChromaDB and Data
+chroma_db/
+downloaded_pdfs/
+
+# Node / React
+node_modules/
+frontend/build/
+frontend/.env
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
